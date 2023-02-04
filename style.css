@@ -75,3 +75,20 @@ footer{
     margin-top: 20px;
     margin-right:20px; 
 }
+@media(max-width:400px) {
+    form{
+        width: 100vw;
+        padding: 20px 5px 20px 5px;
+    }
+    *{
+        font-size: 12px;
+    }
+    select{
+        border: none; 
+        margin-top: 5px;
+        width: 100px;
+        color: #696969;
+     }
+    
+}
+
